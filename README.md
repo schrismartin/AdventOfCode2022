@@ -1,3 +1,3 @@
-# AdventOfCode2022
+# Advent Of Code - 2022
 
-A description of this package.
+This is my journey through Advent of Code in 2022. Many of these solutions are quick-and-dirty as I'm behind and trying to catch up.
